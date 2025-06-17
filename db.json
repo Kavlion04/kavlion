@@ -1,0 +1,32 @@
+
+{
+  "drinks": [
+    {
+      "id": 1,
+      "title": "Fanta",
+      "company_name": "Coca-Cola",
+      "price": 7000,
+      "volume": 0.5,
+      "type": "gazli",
+      "image": "https://images.unsplash.com/photo-1581636625402-29b2a704ef13?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "Sprite",
+      "company_name": "Coca-Cola",
+      "price": 6500,
+      "volume": 0.33,
+      "type": "gazli",
+      "image": "https://images.unsplash.com/photo-1581636625402-29b2a704ef13?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "Orange Juice",
+      "company_name": "Fresh Co",
+      "price": 8500,
+      "volume": 1.0,
+      "type": "gazsiz",
+      "image": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=300&h=300&fit=crop"
+    }
+  ]
+}
